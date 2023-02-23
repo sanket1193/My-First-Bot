@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.9.13 on win32)" generated="20230222 13:02:06.488" rpa="true" schemaversion="3">
+<suite id="s1" name="Tasks" source="c:\Users\Sanket\Documents\My First Bot\tasks.robot">
+<test id="s1-t1" name="Create a compressed File" line="29">
+<status status="FAIL" starttime="20230222 13:02:09.118" endtime="20230222 13:02:09.120">Task contains no keywords.</status>
+</test>
+<doc>Orders robots from RobotSpareBin Industries Inc.
+Saves the order HTML receipt as a PDF file.
+Saves the screenshot of the ordered robot.
+Embeds the screenshot of the robot to the PDF receipt.
+Creates ZIP archive of the receipts and the images.</doc>
+<status status="FAIL" starttime="20230222 13:02:06.499" endtime="20230222 13:02:09.124"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tasks</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Tasks">Tasks</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
